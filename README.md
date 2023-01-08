@@ -5,7 +5,7 @@ repetitve setup steps for the series of games I'm writing this year. Update clas
 class calls to get started. Also includes `pyganim` import for easy sprite animation. I may refine further
 as I get through the games this year - or, more likely, I may not haha...
 
-Look for in main_template.py for `# TODO:` items that need to be reviewed. Feel free to refine 'til your heart's
+Look in main_template.py for `# TODO:` items that need to be reviewed. Feel free to refine 'til your heart's
 content.
 
 **Date:** 7-Jan-2023
